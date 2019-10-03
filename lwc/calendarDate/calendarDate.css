@@ -1,0 +1,11 @@
+.calendarWeekDay {
+    display: table-cell;
+    height: 100%;
+    border-right: 1px solid rgb(216, 221, 230);
+    position: relative;
+}
+.dateItem
+{
+    height:45px;
+    text-align:center;
+}

@@ -1,0 +1,12 @@
+.forceCalendarMonthView
+{
+    height: calc(100% - 40px);
+    z-index: 1;
+    margin: 2%;
+}
+
+.dayHead
+{
+    height:45px;
+    text-align:center;
+}
